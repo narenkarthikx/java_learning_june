@@ -1,0 +1,26 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+
+# Compiled class files
+*.class
+
+# Output directory
+out/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other common
+*.jar
+*.war
+*.ear
+
+# Optional: exclude build folders from other build tools (just in case)
+build/
+target/
